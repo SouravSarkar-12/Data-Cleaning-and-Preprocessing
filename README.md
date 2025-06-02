@@ -1,7 +1,9 @@
 # Data-Cleaning-and-Preprocessing
 
-I have used Mall Customer Segmentation Dataset, on which I have tried to used multiple functions to cleaned the dataset. 
+I have used Mall Customer Segmentation Dataset, on which I have tried to used multiple functions to clean the dataset. 
+
 I worked on Google Collab for this project and these are the summarized points
+
 
   1. Data types: Ensured age is int
   2. Missing values: No nulls were found.
